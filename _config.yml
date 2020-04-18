@@ -83,7 +83,7 @@ gitalk:
   owner: 
 
 # 输入Google Analytics web tracking code
-google_analytics: 
+google_analytics: 'UA-163788260-1'
 
 
 #
